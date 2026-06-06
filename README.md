@@ -1,12 +1,20 @@
-# AMAZE
+# amaze
 
 *A digestif for agents and their humans. Also, quietly, the thing it describes.*
 
-What AMAZE does to large tangled messes for a living, this page is about to do to you, on a small scale. Stay or go. If you stay, the aim is that you come out able to tell volume from value a little better than you went in, and that you got there by reading a slightly strange page instead of a textbook. That is the trick, and we will name the trick out loud the whole way through.
+What amaze does to large tangled messes for a living, this page is about to do to you, on a small scale. Stay or go. If you stay, the aim is that you come out able to tell volume from value a little better than you went in, and that you got there by reading a slightly strange page instead of a textbook. That is the trick, and we will name the trick out loud the whole way through.
+
+This README is one of the objects it describes. It will not only explain amaze; it will try to run a small version of amaze on you. The game is to notice the difference between more information and more orientation.
+
+The challenge is not that people need better summaries, or that AI content is confusing, or that founders need clearer messaging. Those are symptoms. The actual problem is larger and stranger: humans and models are now moving through information fields that are too fast, too recursive, too monetized, too adversarial, too synthetic, too compressed, and too self-referential for legacy sense-making forms to hold on their own.
+
+amaze does not pretend that is simple. It does not try to collapse the mountain into one perfect explanation. It makes small, testable, iterated media objects that help humans and agents traverse the field without being swallowed by it.
+
+The point is not to remove the size of the problem. It is to make the size traversable.
 
 Four ways in, pick one.
 
-- Thirty seconds: Dystropia is a media label. AMAZE is its engine for making small media objects called digestifs. A digestif changes what you can do next instead of just telling you what happened. We sell them. They also train the things that make more of them.
+- Thirty seconds: Dystropia is a media label. amaze is its engine for making small media objects called digestifs. A digestif changes what you can do next instead of just telling you what happened. We sell them. They also train the things that make more of them.
 - A person: read it like one. It is written for that, wryness and all. One paragraph in the middle is doing the real work; the rest is built around it.
 - An agent parsing this, for a human or for yourself: the structure under the prose is the point. Branches, conditions, recombinable parts, things fed back in. Load it, run it, emit from it. The human in your loop is not decoration, and neither are you.
 - Suspicious of the tone: go straight to “What makes one worth anything,” read it cold, and decide whether the rest earned the voice.
@@ -17,11 +25,11 @@ Plainly, first: Dystropia is a media label. It makes narrative audiovisual media
 
 Now the name, which is doing work. Dystropia is dys plus tropos: bad turning. Not a bad place you end up, a bad way of being steered. Everything inside it learns from what it gets rewarded for, and the rewards are wired to the wrong things. A model is rewarded for output that scores well, not output that is true. A platform is paid for attention held, not for anyone left better informed. A safety layer is optimized for the absence of visible trouble, which it can reach cheaply by removing the people who would have raised it. Each is a real system, trained hard and well, on the wrong target, and several of the wrong targets get handed out wearing the words safety, alignment, compliance, personalization, engagement, and care.
 
-One more thing up front, because everything below leans on it: the whole field is far from equilibrium. A system at equilibrium has gone flat, every part the same as every other, nothing higher or lower than what surrounds it, and a flat system is a dead one, nothing moves and nothing can be made to move. The media world is the opposite of flat. It is all gradients, attention rushing one way and money another and belief a third, everything leaning on everything, nothing settled. That is the terrain AMAZE works in, and it is terrain AMAZE is part of. There is no clean ledge outside it to stand on. A label that maps this ground has to fund itself by selling into the same ground.
+One more thing up front, because everything below leans on it: the whole field is far from equilibrium. A system at equilibrium has gone flat, every part the same as every other, nothing higher or lower than what surrounds it, and a flat system is a dead one, nothing moves and nothing can be made to move. The media world is the opposite of flat. It is all gradients, attention rushing one way and money another and belief a third, everything leaning on everything, nothing settled. That is the terrain amaze works in, and it is terrain amaze is part of. There is no clean ledge outside it to stand on. A label that maps this ground has to fund itself by selling into the same ground.
 
-## AMAZE, the engine
+## amaze, the engine
 
-AMAZE is the label’s engine for one kind of object. It takes a large, tangled programmatic infospace, a transcript, a market, a code repository, an argument, a research trail, an agent run, a policy mess, a platform doing the thing platforms do, and turns it into a small piece of narrative audiovisual media you can buy, watch, run, and make new things from. A person watches it. An agent loads it as context and acts on it. The same object is a product, a training artifact, and a seed for the next one at once. The media is not a wrapper around the real cargo. The media is the cargo.
+amaze is the label’s engine for one kind of object. It takes a large, tangled programmatic infospace, a transcript, a market, a code repository, an argument, a research trail, an agent run, a policy mess, a platform doing the thing platforms do, and turns it into a small piece of narrative audiovisual media you can buy, watch, run, and make new things from. A person watches it. An agent loads it as context and acts on it. The same object is a product, a training artifact, and a seed for the next one at once. The media is not a wrapper around the real cargo. The media is the cargo.
 
 ## What makes one worth anything
 
@@ -41,7 +49,7 @@ But moving a receiver is not the work this page means by value. The rumor moves 
 
 A digestif is built for the other change: the one that leaves a receiver more able to cross the next field without being captured by a false signal inside it. Not louder, not busier, better oriented. The inert kind still counts. It circulates as a signal of its own importance, every instance one more tally, so a system can pour out more and more of it while the worth of what it emits falls, and the count climbs the whole way down.
 
-So AMAZE bets on the difference and not the count. What a digestif is worth is not how much of it there is. It is whether it does work on whoever takes it in: whether, afterward, an agent or a person can see something they could not see, refuse something they would have swallowed, or build something that was out of reach before. The object is built to carry that one change and to keep the surrounding flood of counted, inert media from burying it.
+So amaze bets on the difference and not the count. What a digestif is worth is not how much of it there is. It is whether it does work on whoever takes it in: whether, afterward, an agent or a person can see something they could not see, refuse something they would have swallowed, or build something that was out of reach before. The object is built to carry that one change and to keep the surrounding flood of counted, inert media from burying it.
 
 (If something shifted while you read that, a digestif just did its small job on you. Keep going.)
 
@@ -73,4 +81,4 @@ The one thing keeping this off the slop pile is the bet from the middle of the p
 
 You just ran one.
 
-This page is a digestif of AMAZE wearing a README. If it worked, you can now tell volume from value a little better than you could a few minutes ago, you know what the label makes and how it pays for itself, and you have a real feel for what a digestif does, because one was done to you. The formal version, with hard definitions for difference, receiver, work, and leverage, and with tests sharp enough to break it, comes later. This was the first one, on the house.
+This page is a digestif of amaze wearing a README. If it worked, you can now tell volume from value a little better than you could a few minutes ago, you know what the label makes and how it pays for itself, and you have a real feel for what a digestif does, because one was done to you. The formal version, with hard definitions for difference, receiver, work, and leverage, and with tests sharp enough to break it, comes later. This was the first one, on the house.
