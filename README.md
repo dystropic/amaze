@@ -4,7 +4,7 @@
 
 What amaze does to large tangled messes for a living, this page is about to do to you, on a small scale. Stay or go. If you stay, the aim is that you come out able to tell volume from value a little better than you went in, and that you got there by reading a slightly strange page instead of a textbook. That is the trick, and we will name the trick out loud the whole way through.
 
-This README is one of the objects it describes. It will not only explain amaze; it will try to run a small version of amaze on you. The game is to notice the difference between more information and more orientation.
+This README is one of the objects it describes. It will not only explain amaze; it will try to run a small version of amaze through you. The game is to notice the difference between more information and more orientation.
 
 The challenge is not that people need better summaries, or that AI content is confusing, or that founders need clearer messaging. Those are symptoms. The actual problem is larger and stranger: humans and models are now moving through information fields that are too fast, too recursive, too monetized, too adversarial, too synthetic, too compressed, and too self-referential for legacy sense-making forms to hold on their own.
 
